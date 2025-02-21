@@ -17,4 +17,4 @@ This work serves as both an artistic and technical exploration, demonstrating ho
 
 🔗 **Try it out, use your weather data, modify the parameters, and create your own data-driven compositions!**
 
-The dataset used spans a week-long period from February 13 to February 20, 2022 in the timezone Europe/Paris (UTC+1), at the city of Nice, in France.
+
