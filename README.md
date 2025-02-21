@@ -16,5 +16,9 @@ This notebook explores the intersection between data science and music compositi
 This work serves as both an artistic and technical exploration, demonstrating how structured numerical patterns from meteorology can be transformed into expressive musical pieces. 🎵
 
 🔗 **Try it out, use your weather data, modify the parameters, and create your own data-driven compositions!**
+## 🚀 Open the Notebook in Google Colab  
+Click the button below to open and run this notebook in Google Colab:  
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RominaSR/weather-data-analysis-to-music/blob/main/Nice_PyComposition(reviewed).ipynb)
 
 
