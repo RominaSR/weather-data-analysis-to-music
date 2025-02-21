@@ -1,4 +1,4 @@
-🎼 **PyComposition – Transforming Weather Data into Music** 🎶
+## 🎼 **PyComposition – Transforming Weather Data into Music** 🎶
 
 🌍 **From Climate to Composition: A Data-driven Musical experiment**
 
